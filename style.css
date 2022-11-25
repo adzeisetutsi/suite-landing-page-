@@ -151,7 +151,7 @@ picture {
   color: #49566d;
   font-family: "Epilogue";
 }
-.saying {
+.jeremy-info {
   font-family: "Epilogue";
   position: relative;
   top: 70px;
@@ -345,7 +345,7 @@ footer {
   .languages {
     padding-right: 60px;
   }
-  .saying {
+  .jeremy-info {
     width: 689px;
     height: 684px;
     position: relative;
@@ -518,7 +518,7 @@ footer {
     align-items: center;
     justify-content: center;
   }
-  .saying {
+  .jeremy-info {
     width: 1109px;
     height: 545px;
     position: absolute;
