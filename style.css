@@ -486,7 +486,7 @@ footer {
     border: none;
   }
   picture {
-    margin-left: 630px;
+    margin-left: 625px;
     position: relative;
     font-weight: 700;
     bottom: 360px;
@@ -587,7 +587,7 @@ footer {
     justify-content: center;
   }
   .foot {
-    width: 1360px;
+    width: 100%;
     height: 32px;
     margin: 0, auto;
   }
@@ -606,5 +606,11 @@ footer {
     position: absolute;
     top: 40px;
     margin-left: 90px;
+  }
+  #facebook-icon:hover,
+  #twitter-icon:hover,
+  #instagram-icon:hover {
+    cursor: pointer;
+    filter: invert(0.5);
   }
 }
